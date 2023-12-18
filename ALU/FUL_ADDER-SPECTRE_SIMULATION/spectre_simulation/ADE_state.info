@@ -1,0 +1,3 @@
+projectDir = '"~/cadence/simulation"
+designInfo = '("ALU" "FullAdder_1bit_simmulation" "schematic" "spectre")
+descriptionText = "None"
