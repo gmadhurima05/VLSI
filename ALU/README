@@ -1,1 +1,1 @@
-This folder contains the design of a 4-bit ALU in Cadence Virtuoso where 11 operations ( AND, OR, NOT, XOR, ADD, ADD WITH CARRY, SUBTRACT, SUBTRACT WITH BORROW, 1's COMPLEMENT, 2's COMPLEMENT, INCREMENT, and DECREMENT)
+This folder contains the design of a 4-bit ALU in Cadence Virtuoso where 11 operations ( AND, OR, NOT, XOR, ADD, ADD WITH CARRY, SUBTRACT, SUBTRACT WITH BORROW, 1's COMPLEMENT, 2's COMPLEMENT, INCREMENT, and DECREMENT) can be performed.
